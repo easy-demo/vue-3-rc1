@@ -1,0 +1,14 @@
+{
+  "name": "vue-3-rc1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:easy-demo/vue-3-rc1.git",
+  "author": "范文华 <531362022@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "vue": "^3.0.0-rc.1"
+  }
+}
